@@ -11,7 +11,7 @@ re-test bug/issue and resubmit!
 
 * **Issue**: <!-- detailed description of the issue -->
 
-* **Link to Log or Crash File Paste**: <!-- please use http://paste.feed-the-beast.com/ to paste the text of your log/crash file -->
+* **Link to Log or Crash File Paste**: <!-- please use https://pastebin.com to paste the text of your log/crash file -->
 
 * **Is it Repeatable?**: <!-- can you repeat the issue -->
 
